@@ -1,0 +1,2 @@
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\Komodo\KomodoInsurance\Developer_Class_Library\obj\Debug\Developer_Class_Library.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\Komodo\KomodoInsurance\Developer_Class_Library\obj\Debug\Developer_Class_Library.csproj.CoreCompileInputs.cache

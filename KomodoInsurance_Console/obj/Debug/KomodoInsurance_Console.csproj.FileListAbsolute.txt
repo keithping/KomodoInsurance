@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\Komodo\KomodoInsurance\KomodoInsurance_Console\bin\Debug\KomodoInsurance_Console.exe.config
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\Komodo\KomodoInsurance\KomodoInsurance_Console\bin\Debug\KomodoInsurance_Console.exe
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\Komodo\KomodoInsurance\KomodoInsurance_Console\bin\Debug\KomodoInsurance_Console.pdb
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\Komodo\KomodoInsurance\KomodoInsurance_Console\obj\Debug\KomodoInsurance_Console.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\Komodo\KomodoInsurance\KomodoInsurance_Console\obj\Debug\KomodoInsurance_Console.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\Komodo\KomodoInsurance\KomodoInsurance_Console\obj\Debug\KomodoInsurance_Console.exe
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\Komodo\KomodoInsurance\KomodoInsurance_Console\obj\Debug\KomodoInsurance_Console.pdb
