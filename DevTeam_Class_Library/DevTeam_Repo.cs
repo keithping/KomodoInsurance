@@ -16,7 +16,8 @@ namespace DevTeam_Class_Library
         public bool AddDevToTeam(int devTeamID, Developer developer)
         {
             int teamCount = _devTeam.Count();
-
+            DevTeam returnedDevTeam = FindDevTeam(devTeamID);
+            returnedDevTeam.Team.Add(developer);
             if (_devTeam.Count() == teamCount + 1)
             {
                 return true;
@@ -37,7 +38,7 @@ namespace DevTeam_Class_Library
            return false;
         }
 
-        public Dictionary<int, DevTeam> GetDevTeam()
+        public Dictionary<int, DevTeam> GetDevTeams()
         {
             return _devTeam;
         }

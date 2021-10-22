@@ -18,7 +18,5 @@ namespace DevTeam_Class_Library
         //This needs to be a list
         public string DevTeamName { get; set; } 
         public int DevTeamID { get; set; }
-
-        //create Dev
     }
 }

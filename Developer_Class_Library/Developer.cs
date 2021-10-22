@@ -16,7 +16,6 @@ namespace Developer_Class_Library
     {
         public string DeveloperName { get; set; }
         public int DeveloperID { get; set; }
-        public bool HasPluralsightAccess { get; set; }
-        
+        public bool HasPluralsightAccess { get; set; }   
     }
 }
