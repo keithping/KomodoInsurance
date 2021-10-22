@@ -14,7 +14,7 @@ namespace DevTeam_Class_Library
     //Team ID: int
     public class DevTeam
     {
-        public List<Developer> Team { get; set; }
+        public List<Developer> Team { get; set; } = new List<Developer>();
         //This needs to be a list
         public string DevTeamName { get; set; } 
         public int DevTeamID { get; set; }
